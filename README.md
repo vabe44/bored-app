@@ -1,6 +1,6 @@
-# bored-app
+# Bored APP
 
-> My incredible Nuxt.js project
+> [Frontend feladat](https://github.com/ngabesz-wse/bored-app) megoldása
 
 ## Build Setup
 
